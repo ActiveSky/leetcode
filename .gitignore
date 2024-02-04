@@ -1,4 +1,3 @@
 .lcpr_data
 .vscode/
-test_python.ipynb
-test.py
+test/
